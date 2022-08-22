@@ -1,6 +1,6 @@
 # Build a REST API with Node.js, Express, and MySQL
 
-## Prerequisites: 
+## Prerequisites :nerd_face:	 : 
 - Understanding of how MySQL and relational databases work in general
 - Basic knowledge of Node.js and Express.js
 - Understanding of what REST (representational state transfer) APIs are and how they function
